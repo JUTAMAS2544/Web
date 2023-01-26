@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;400&display=swap');
+
+#detail_login {
+    padding-top: 107px;
+    padding-bottom: 107px;
+    width: 40%;
+}
+#hide {
+    position: absolute;
+    right: 0;
+}
